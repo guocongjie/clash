@@ -1,6 +1,6 @@
 # 内容：GlobalTv.list
 # 数量：9条
-DOMAIN-KEYWORD,tvcdn
+##DOMAIN-KEYWORD,tvcdn
 DOMAIN-KEYWORD,ubtv
 ##DOMAIN-KEYWORD,cdnbye
 DOMAIN-KEYWORD,twilio
